@@ -1,67 +1,67 @@
-<h1 align="center">SimiForge</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/simiforge-wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/simiforge-wordmark-light.svg" alt="SimiForge" width="250">
+  </picture>
+</p>
 
-<p align="center"><strong>Useful code. Creative ideas.</strong><br>Digital products & custom software.</p>
+<h3 align="center">Useful code. Creative ideas.</h3>
+<p align="center">An independent studio building digital products, custom software and automations.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/simiforge-tech-stack.svg" alt="SimiForge technology toolkit: languages; backend and APIs; databases; frontend and mobile; integrations; DevOps and cloud; commerce and payments. Full technology list below." width="100%">
+  <a href="https://github.com/orgs/SimiForge/repositories"><strong>Explore our work ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/simiforge/"><strong>Build with us ↗</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/orgs/SimiForge/repositories">Explore our repositories</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/simiyu-samuel/simipay-prestashop">Discover SIMIPAY</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/company/simiforge/">Connect with SimiForge</a>
+  <img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/simiforge-tech-stack.svg" alt="SimiForge technology toolkit: languages, backend and APIs, databases, frontend and mobile, integrations, DevOps and cloud, commerce and payments. Expand the technology list below for a text version." width="100%">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/simiforge-motion-line.gif" alt="Connected modules with a moving orange accent" width="640"></p>
+---
 
-## Software with a practical purpose
+## From your next shortcut to your next big build.
 
-**SimiForge is an independent digital product and software studio.** We build tools for developers, businesses, online stores and people who want to turn an idea into something useful.
+We make software for people who build, run businesses and sell online. Sometimes that means a tool you can use today. Sometimes it means creating a system around the way your team works.
 
-Our work brings together ready-to-use digital products and custom development. That can mean a small script that saves hours of repetitive work, a plugin that improves checkout, a reusable interface kit, or a business application built around the way a team operates.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-We create for a global audience, across languages and platforms. PrestaShop is part of our work, alongside web applications, mobile experiences, integrations and developer tools.
+### 01 / Digital products
 
-## What we create
+**A head start on your next project.**
 
-| Product area | What you can expect |
-| --- | --- |
-| **Scripts & developer tools** | PHP, Python and JavaScript utilities, import tools, file workflows and reusable code. |
-| **UI kits, themes & templates** | Navigation, pricing interfaces, command menus and components for websites and applications. |
-| **Plugins & eCommerce extensions** | Storefront improvements, payment integrations and tools for online businesses. |
-| **Digital resources** | A growing catalog of guides, tutorials, courses, stories and other downloadable publications. |
+Scripts, UI kits, themes, plugins and developer tools — with reusable code, setup guidance and clear requirements. Our growing catalog also includes learning resources and digital publications.
 
-Our catalog is growing. Each product's own documentation and release notes describe its availability, requirements, installation and included features.
+[Explore the repositories →](https://github.com/orgs/SimiForge/repositories)
 
-## Built for your workflow
+</td>
+<td width="50%" valign="top">
 
-We also take on custom software projects, from the initial brief through development, testing, documentation and handover.
+### 02 / Custom development
 
-- **Websites & web applications** — customer portals, dashboards and applications for everyday work.
-- **Business systems** — internal tools, reporting and workflows tailored to a team’s operations.
-- **Mobile applications** — experiences designed around how customers and teams use their devices.
-- **Automations & integrations** — connecting APIs, data sources, payments and existing software.
-- **eCommerce development** — store features, extensions and checkout integrations.
-- **Customization & maintenance** — adapting products, resolving issues and improving existing systems.
+**Software shaped around your workflow.**
 
-For a project conversation, [connect with SimiForge on LinkedIn](https://www.linkedin.com/company/simiforge/). Share the problem you want to solve and the outcome you have in mind.
+Websites, apps, business systems and automations. We connect APIs, improve online stores and adapt existing tools — from the first brief through development and handover.
 
-## Featured open-source project
+[Tell us what you’re building →](https://www.linkedin.com/company/simiforge/)
 
-### [SIMIPAY (M-PESA) for PrestaShop](https://github.com/simiyu-samuel/simipay-prestashop)
+</td>
+</tr>
+</table>
 
-SIMIPAY connects PrestaShop checkout to M-PESA through Kopo Kopo. It handles payment requests and payment confirmation within the store’s order workflow. The repository provides setup instructions, compatibility information and installable module releases.
+### A project out in the world
 
-[View source & documentation](https://github.com/simiyu-samuel/simipay-prestashop) · [Download releases](https://github.com/simiyu-samuel/simipay-prestashop/releases)
+**[SIMIPAY · M-PESA for PrestaShop ↗](https://github.com/simiyu-samuel/simipay-prestashop)**<br>
+An open-source payment module connecting PrestaShop checkout to Kopo Kopo, from payment requests to order confirmation.
 
-## Our technology toolkit
-
-We choose the stack to suit the product, its users and its operating environment. The graphic above brings our toolkit together; a project’s documentation identifies the technologies and versions it actually requires.
+[Source code](https://github.com/simiyu-samuel/simipay-prestashop) &nbsp; / &nbsp; [Installable releases](https://github.com/simiyu-samuel/simipay-prestashop/releases) &nbsp; / &nbsp; [Setup guide](https://github.com/simiyu-samuel/simipay-prestashop#readme)
 
 <details>
-<summary><strong>Explore the technology list</strong></summary>
+<summary><strong>Under the hood — explore our technology toolkit</strong></summary>
+
+We choose the tools to suit the project. Each product documents its own stack and requirements.
 
 | Area | Technologies |
 | --- | --- |
@@ -75,33 +75,19 @@ We choose the stack to suit the product, its users and its operating environment
 
 </details>
 
-## How we build
-
-**Useful by design.** Start with a real problem and keep the solution focused.
-
-**Clear to adopt.** Provide requirements, setup guidance and documentation alongside the software.
-
-**Built to evolve.** Track changes in Git, test important workflows and maintain versioned releases.
-
-**Honest about readiness.** Describe what a product includes, what has been verified and where work is still in progress.
-
-Some SimiForge projects are open source; others are commercial products. Check the license supplied with each project for its usage and contribution terms. Public repositories are only part of our work.
+<p><sub>Public repositories are part of our work. Some products are open source; others are commercial. See each project’s license for its usage terms.</sub></p>
 
 ---
 
-<p align="center">
-  <strong>Follow the forge · @simiforge</strong><br>
-  Product launches, practical guides and updates from the studio.
-</p>
+<h3 align="center">Follow the forge.</h3>
+<p align="center">New tools. Things we’re building. Ideas worth sharing.<br><strong>@simiforge</strong></p>
 
 <p align="center">
-  <a href="https://github.com/SimiForge">GitHub</a> ·
-  <a href="https://www.linkedin.com/company/simiforge/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/simiforge/">Instagram</a> ·
-  <a href="https://x.com/simiforge">X</a> ·
-  <a href="https://www.facebook.com/simiforge">Facebook</a> ·
-  <a href="https://www.youtube.com/@simiforge">YouTube</a> ·
-  <a href="https://www.tiktok.com/@simiforge">TikTok</a>
+  <a href="https://github.com/SimiForge"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-github.svg" alt="SimiForge on GitHub" height="36"></a>
+  <a href="https://www.linkedin.com/company/simiforge/"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-linkedin.svg" alt="SimiForge on LinkedIn" height="36"></a>
+  <a href="https://www.instagram.com/simiforge/"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-instagram.svg" alt="SimiForge on Instagram" height="36"></a>
+  <a href="https://x.com/simiforge"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-x.svg" alt="SimiForge on X" height="36"></a>
+  <a href="https://www.facebook.com/simiforge"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-facebook.svg" alt="SimiForge on Facebook" height="36"></a>
+  <a href="https://www.youtube.com/@simiforge"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-youtube.svg" alt="SimiForge on YouTube" height="36"></a>
+  <a href="https://www.tiktok.com/@simiforge"><img src="https://raw.githubusercontent.com/SimiForge/.github/main/profile/assets/social-tiktok.svg" alt="SimiForge on TikTok" height="36"></a>
 </p>
-
-<p align="center"><strong>SimiForge</strong><br>Digital products & custom software. Built with purpose.</p>
